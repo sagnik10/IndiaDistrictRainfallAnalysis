@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+
+# Generated analysis outputs are reproducible from the source CSV and script.
+outputs/
+
+# Optional downloaded boundary asset.
+assets/india_state.geojson
+assets/india_district.geojson
+assets/india_district_modern.geojson
