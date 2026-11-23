@@ -1,3 +1,18 @@
+<!-- SAGNIK10-STYLE-HEADER -->
+<div align="center">
+  <a href="https://github.com/sagnik10"><img src="https://img.shields.io/badge/Sagnik_Sen-Atmospheric%20%26%20Science-275cce?style=flat-square" alt="Category" /></a>
+  <img src="https://img.shields.io/badge/Stack-Python-192a43?style=flat-square" alt="Stack" />
+  <img src="https://img.shields.io/badge/License-MIT-54647a?style=flat-square" alt="License" />
+</div>
+
+<p align="center">
+  <a href="https://sagnik10.github.io/SagnikSenPortfolio/">Portfolio</a> ·
+  <a href="https://github.com/sagnik10">GitHub Profile</a> ·
+  <a href="https://github.com/sagnik10/sagnik-sen-antigravity-plugin">Antigravity Plugin</a>
+</p>
+
+---
+<!-- /SAGNIK10-STYLE-HEADER -->
 # Rainfall Data Analysis
 
 Production-grade rainfall analysis for the local file:
@@ -126,3 +141,13 @@ Optional map download uses Python standard-library networking.
 ## Reproducibility
 
 Every generated table is saved under `outputs/tables/`. The `chart_map.csv` file records each chart path, title, section, and insight used in the PDF atlas.
+
+
+<!-- SAGNIK10-STYLE-FOOTER -->
+---
+<p align="center">
+  Maintained by <a href="https://github.com/sagnik10"><strong>Sagnik Sen</strong></a> ·
+  <a href="https://sagnik10.github.io/SagnikSenPortfolio/">Portfolio &amp; 1-on-1 Teaching</a> ·
+  <a href="https://www.linkedin.com/in/sagnik-sen-0a70431a8/">LinkedIn</a>
+</p>
+<!-- /SAGNIK10-STYLE-FOOTER -->
